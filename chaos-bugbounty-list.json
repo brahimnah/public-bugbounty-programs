@@ -4165,6 +4165,14 @@
 			]
 		},
 		{
+			"name":"nodebb",
+			"url":"https://blog.nodebb.org/bounty/",
+			"bounty": true,
+			"domains":[
+				"nodebb.org"
+			]
+		},
+		{
 			"name": "Phished",
 			"url": "https://www.intigriti.com/programs/phished/phished/detail",
 			"bounty": false,
